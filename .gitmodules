@@ -1,0 +1,9 @@
+[submodule "pia-store-customer"]
+	path = pia-store-customer
+	url = https://github.com/HoTranThienNhan/pia-store-customer.git
+[submodule "pia-store-admin"]
+	path = pia-store-admin
+	url = https://github.com/HoTranThienNhan/pia-store-admin.git
+[submodule "pia-store-server"]
+	path = pia-store-server
+	url = https://github.com/HoTranThienNhan/pia-store-server.git
