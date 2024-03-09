@@ -42,7 +42,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/PiaStoreWebApp/assets/122293496/44215b74-b776-4991-970a-d578bfc8f27a" width="70%"/>
     <div>
-      <em><b>Feature 1.</b> Home page</em>
+      <em><b>Figure 1.</b> Home page</em>
     </div>
   </div>
   </br>
@@ -50,7 +50,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/PiaStoreWebApp/assets/122293496/b9d9b6f1-8a87-4863-b49d-2fc9ac8cda87" width="70%"/>
     <div>
-      <em><b>Feature 2.</b> Product detail page</em>
+      <em><b>Figure 2.</b> Product detail page</em>
     </div>
   </div>
   </br>
@@ -58,7 +58,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/PiaStoreWebApp/assets/122293496/d528127f-86cf-4110-b6d9-16861a2b8c68" width="70%"/>
     <div>
-      <em><b>Feature 3.</b> Cart page</em>
+      <em><b>Figure 3.</b> Cart page</em>
     </div>
   </div>
   </br>
@@ -66,7 +66,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/PiaStoreWebApp/assets/122293496/7c5e54b0-e466-471e-99bc-bbd9f009f933" width="70%"/>
     <div>
-      <em><b>Feature 4.</b> Order history page</em>
+      <em><b>Figure 4.</b> Order history page</em>
     </div>
   </div>
   </br>
@@ -74,7 +74,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/PiaStoreWebApp/assets/122293496/6c83458a-7c3e-4153-8127-6406ce5074dd" width="70%"/>
     <div>
-      <em><b>Feature 5.</b> Review page</em>
+      <em><b>Figure 5.</b> Review page</em>
     </div>
   </div>
   </br>
@@ -87,7 +87,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/PiaStoreWebApp/assets/122293496/b7475288-83c4-48ef-ab57-71daa9a0571a" width="70%"/>
     <div>
-      <em><b>Feature 6.</b> Product management page</em>
+      <em><b>Figure 6.</b> Product management page</em>
     </div>
   </div>
   </br>
@@ -95,7 +95,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/PiaStoreWebApp/assets/122293496/a9093b74-af54-44f1-acab-30dad8cd9c92" width="70%"/>
     <div>
-      <em><b>Feature 7.</b> Order management page</em>
+      <em><b>Figure 7.</b> Order management page</em>
     </div>
   </div>
   </br>
@@ -103,7 +103,7 @@
   <div align="center">
     <img src="https://github.com/HoTranThienNhan/PiaStoreWebApp/assets/122293496/cf9a0d85-e75c-4e24-93ff-7e774dc5d106" width="70%"/>
     <div>
-      <em><b>Feature 8.</b> Order detail modal popup</em>
+      <em><b>Figure 8.</b> Order detail modal popup</em>
     </div>
   </div>
   </br>
